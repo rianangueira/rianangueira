@@ -1,4 +1,7 @@
 ## Hey, eu sou o Rian, um estudante de programação! :)
+
+####Tenho 18 anos e atualmente estou estudando HTML, CSS e JavaScript, pretendo iniciar a faculdade em Análise e Desenvolvimento de Sistemas em 2022. Desde pequeno tenho essa paixão pela tecnologia, o que me influenciou a seguir essa área da programação. Busco me desenvolver e me tornar um profissional ainda esse ano, e para isso, estou totalmente focado nos estudos e disposto a encarar os mais diversos desafios.
+
   <a href="https://github.com/rianangueira">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=rianangueira&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 </div>
