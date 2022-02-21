@@ -2,7 +2,7 @@
 
 Tenho 19 anos e atualmente estou estudando HTML, CSS e JavaScript, também estou fazendo Análise e Desenvolvimento de Sistemas. Desde pequeno tenho essa paixão pela tecnologia, o que me influenciou a seguir essa área da programação. Busco me desenvolver e me tornar um profissional ainda esse ano, e para isso, estou totalmente focado nos estudos e disposto a encarar os mais diversos desafios.
 
-<p align = "center">
+<p align = "center"
 <div>
   <a href="https://github.com/rianangueira">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=rianangueira&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
