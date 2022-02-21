@@ -9,8 +9,9 @@ Tenho 19 anos e atualmente estou estudando HTML, CSS e JavaScript, também estou
 </div>
 </p>
 
-<p align = "center" fontsize = 30px >Tecnologias mais usadas:</p>
+<p align = "center" fontsize = "30px">Tecnologias mais usadas:</p>
 <div style="display: inline_block"><br>
+  <p align = "center">
   <img align="center" alt="Rian-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Rian-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Rian-JS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
