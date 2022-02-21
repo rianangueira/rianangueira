@@ -18,7 +18,7 @@ Tenho 19 anos e atualmente estou estudando HTML, CSS e JavaScript, também estou
 </div>
 </p>
 
-<p align = "center"
+<p align = "center">
 ### Minhas redes sociais:
 <div> 
   <a href="https://instagram.com/rianangueira" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
