@@ -9,8 +9,8 @@ Tenho 19 anos e atualmente estou estudando HTML, CSS e JavaScript, também estou
 </div>
 </p>
 
-
-## Tecnologias mais usadas:
+<p align = "center"
+Tecnologias mais usadas:
 <div style="display: inline_block"><br>
   <img align="center" alt="Rian-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Rian-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
