@@ -10,11 +10,14 @@
 
 Tenho 19 anos, moro em São Paulo e atualmente estudo HTML/CSS e Java Script. Curso Análise e Desenvolvimento de Sistemas. Desde pequeno tenho essa paixão pela tecnologia, o que me influenciou a seguir essa área da programação. Busco me desenvolver e me tornar um profissional ainda esse ano, e para isso, estou totalmente focado nos estudos e disposto a encarar os mais diversos desafios.
 
-<div style="display: inline_block"><br>
+
+<div style="display: inline_block" align = "center"><br>
   <img align="center" alt="Rian-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Rian-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Rian-JS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
 </div>
+
+<br/>
 
 <div align="center" >
   <img width="50%" height="100%" src="https://github-readme-stats.vercel.app/api?username=RianAngueira&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
