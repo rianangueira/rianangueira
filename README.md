@@ -1,12 +1,14 @@
 ## <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px"> **Heyy! Eu sou o Rian, um estudante de programação! :)** &nbsp;<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="24px">
 
-Tenho 19 anos e atualmente estou estudando HTML, CSS e JavaScript, também estou fazendo Análise e Desenvolvimento de Sistemas. Desde pequeno tenho essa paixão pela tecnologia, o que me influenciou a seguir essa área da programação. Busco me desenvolver e me tornar um profissional ainda esse ano, e para isso, estou totalmente focado nos estudos e disposto a encarar os mais diversos desafios.
-
 🖥️ Front-End!
 
 🗺️ São Paulo - SP (Brasil)
 
 📚 Atualmente aprendendo HTML/CSS e JavaScript.
+
+## About me
+
+Tenho 19 anos e atualmente estou estudando HTML, CSS e JavaScript, também estou fazendo Análise e Desenvolvimento de Sistemas. Desde pequeno tenho essa paixão pela tecnologia, o que me influenciou a seguir essa área da programação. Busco me desenvolver e me tornar um profissional ainda esse ano, e para isso, estou totalmente focado nos estudos e disposto a encarar os mais diversos desafios.
 
 <p align="center"
 <div style="display: inline_block"><br>
