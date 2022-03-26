@@ -10,13 +10,11 @@
 
 Tenho 19 anos e atualmente estou estudando HTML, CSS e JavaScript, também estou fazendo Análise e Desenvolvimento de Sistemas. Desde pequeno tenho essa paixão pela tecnologia, o que me influenciou a seguir essa área da programação. Busco me desenvolver e me tornar um profissional ainda esse ano, e para isso, estou totalmente focado nos estudos e disposto a encarar os mais diversos desafios.
 
-<p align="center"
 <div style="display: inline_block"><br>
   <img align="center" alt="Rian-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Rian-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Rian-JS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
 </div>
-</p>
 
 ## Entre em contato! e<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Handshake.gif" height="32px">
 
