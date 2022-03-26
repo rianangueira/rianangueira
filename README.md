@@ -16,6 +16,11 @@ Tenho 19 anos, moro em São Paulo e atualmente estudo HTML/CSS e Java Script. Cu
   <img align="center" alt="Rian-JS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
 </div>
 
+<div align="center" >
+  <img width="50%" height="100%" src="https://github-readme-stats.vercel.app/api?username=CarlosAmorim94&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img width="42%" height="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CarlosAmorim94&layout=compact&langs_count=7&theme=dracula"/>
+</div>
+
 ## Entre em contato! <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Handshake.gif" height="32px">
 
 <div> 
