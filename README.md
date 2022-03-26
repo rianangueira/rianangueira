@@ -6,7 +6,7 @@
 
 📚 Atualmente aprendendo HTML/CSS e JavaScript.
 
-## About me
+## Sobre mim
 
 Tenho 19 anos e atualmente estou estudando HTML, CSS e JavaScript, também estou fazendo Análise e Desenvolvimento de Sistemas. Desde pequeno tenho essa paixão pela tecnologia, o que me influenciou a seguir essa área da programação. Busco me desenvolver e me tornar um profissional ainda esse ano, e para isso, estou totalmente focado nos estudos e disposto a encarar os mais diversos desafios.
 
@@ -16,7 +16,7 @@ Tenho 19 anos e atualmente estou estudando HTML, CSS e JavaScript, também estou
   <img align="center" alt="Rian-JS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
 </div>
 
-## Entre em contato! e<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Handshake.gif" height="32px">
+## Entre em contato! <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Handshake.gif" height="32px">
 
 <div> 
   <a href="https://instagram.com/rianangueira" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
