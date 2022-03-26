@@ -2,7 +2,12 @@
 
 Tenho 19 anos e atualmente estou estudando HTML, CSS e JavaScript, também estou fazendo Análise e Desenvolvimento de Sistemas. Desde pequeno tenho essa paixão pela tecnologia, o que me influenciou a seguir essa área da programação. Busco me desenvolver e me tornar um profissional ainda esse ano, e para isso, estou totalmente focado nos estudos e disposto a encarar os mais diversos desafios.
 
-  
+🖥️ Front-End!
+
+🗺️ São Paulo - SP (Brasil)
+
+📚 Atualmente aprendendo HTML/CSS e JavaScript.
+
 <p align="center"
 <div style="display: inline_block"><br>
   <img align="center" alt="Rian-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
