@@ -8,7 +8,7 @@
 
 ## Sobre mim
 
-Tenho 19 anos, moro em São Paulo e atualmente estudo HTML/CSS e Java Script. Curso Análise e Desenvolvimento de Sistemas. Desde pequeno tenho essa paixão pela tecnologia, o que me influenciou a seguir essa área da programação. Atualmente trabalho na Csanmek Technologia.
+Tenho 19 anos, moro em São Paulo e atualmente estudo HTML/CSS e Java Script. Curso Análise e Desenvolvimento de Sistemas. Desde pequeno tenho essa paixão pela tecnologia, o que me influenciou a seguir essa área da programação. Atualmente trabalho na Csanmek Tecnologia.
 
 
 <div style="display: inline_block" align = "center"><br>
