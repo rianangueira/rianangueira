@@ -1,4 +1,4 @@
-**Heyy! Eu sou o Rian, um estudante de programação! :)** &nbsp;
+**Heyy! Eu sou o Rian, um estudante de programação! :)**
 
 🖥️ Front-End!
 
