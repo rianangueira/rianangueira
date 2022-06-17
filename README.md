@@ -1,4 +1,4 @@
-## <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px"> **Heyy! Eu sou o Rian, um estudante de programação! :)** &nbsp;<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="24px">
+## <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="10px"> **Heyy! Eu sou o Rian, um estudante de programação! :)** &nbsp;<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="10px">
 
 🖥️ Front-End!
 
